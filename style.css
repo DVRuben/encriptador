@@ -50,6 +50,12 @@ button {
     color:#000;
     border-radius: 5px;
     margin: 0 0 7px 7px;
+    transition: 1.2s;    
+    font-weight: bold;
+}
+
+button:hover{
+    background-color: #D07000;
 }
 
 .input-derecho{
